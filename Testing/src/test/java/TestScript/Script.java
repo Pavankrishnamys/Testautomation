@@ -14,11 +14,11 @@ public class Script extends Generic_Browser
 	@Test
 	public void Demo2()
 	{
-		Assert.assertTrue(false);
+		Assert.assertTrue(true);
 	}
 	@Test
 	public void Demo3()
 	{
-		Assert.assertTrue(true);
+		Assert.assertTrue(false);
 	}
 }
